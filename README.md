@@ -4,6 +4,7 @@
 
 Languages and Tools
 
-![css](https://img.shields.io/badge/-CSS-#000?style=for-the-badge&logo=css&logoColor=47C5FB)
-
+![css](https://icons8.com/icon/21278/css3)
+![html](https://icons8.com/icon/20909/html-5)
+![js](https://icons8.com/icon/tGvHBPJaKqEd/javascript)
 Folow Me
