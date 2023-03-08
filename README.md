@@ -1,9 +1,10 @@
-![Header](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-
-<img>
-
 <h1 align="center">Hi 👋, I'm Dimi beginner Software Engeneer</h1>
 <h3 align="center">frontend developer</h3>
+
+<p align="center">
+    <img width="600" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Material Bread logo">
+</p>
+
 
 <p align="left">
 </p>
